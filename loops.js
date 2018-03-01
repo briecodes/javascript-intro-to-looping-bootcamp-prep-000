@@ -21,9 +21,9 @@ function whileLoop(myNumber){
   }
 }
 
-function doWhileLoop(myNewArray){
-  do{
-    myNewArray.pop();
-    return 'fase';
-  } while(myNewArray.length > 0 && doWhileLoop());
-}
+// function doWhileLoop(myNewArray){
+//   do{
+//     myNewArray.pop();
+//     return 'fase';
+//   } while(myNewArray.length > 0 && doWhileLoop());
+// }
